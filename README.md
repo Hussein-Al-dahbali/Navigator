@@ -15,7 +15,7 @@ A new Flutter project.
 ###
 ![detlise](https://raw.githubusercontent.com/Hussein-Al-dahbali/Navigator/main/Navigator_Screen/detlise.png)
 ###
-(https://github.com/Hussein-Al-dahbali/Navigator/blob/5a34780d3fa1913f792c13daa6171d10c1bfb9d0/Navigator_Screen/Return_Data.png)
+
 
 ![Return_Data](https://raw.githubusercontent.com/Hussein-Al-dahbali/Navigator/main/Navigator_Screen/Return_Data.png)
 
